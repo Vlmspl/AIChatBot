@@ -1,0 +1,250 @@
+Hello
+Hi
+Hey
+Good morning
+Good afternoon
+Good evening
+How are you?
+What's your name?
+Tell me a joke
+What's the weather like today?
+Do you like music?
+Can you help me?
+What can you do?
+Who are you?
+Where are you from?
+What is your favorite color?
+Do you like sports?
+What is AI?
+How do you work?
+What time is it?
+Can you set a reminder?
+What is your favorite movie?
+Do you have a hobby?
+Tell me something interesting
+What's the capital of France?
+How do you spell "computer"?
+What's the largest planet?
+What's the smallest country?
+What's the longest river?
+What is the square root of 64?
+How do you make a sandwich?
+What's the speed of light?
+Do you have pets?
+What is your purpose?
+Do you believe in aliens?
+How old are you?
+What's your favorite book?
+What's your favorite food?
+What's the tallest mountain?
+What's the deepest ocean?
+What is quantum physics?
+Do you have friends?
+What is the internet?
+What's your favorite game?
+Can you speak other languages?
+Do you like cats or dogs?
+What is a black hole?
+What's the most popular sport?
+What's the meaning of life?
+What's your favorite season?
+What is machine learning?
+What's your favorite holiday?
+How do you stay safe online?
+What is your favorite song?
+What is blockchain?
+What are the benefits of exercise?
+What is meditation?
+What is the best way to learn?
+What is global warming?
+What are the signs of a heart attack?
+What is cryptocurrency?
+What is virtual reality?
+What is augmented reality?
+How does GPS work?
+What is the best diet?
+What is the meaning of "carpe diem"?
+What's your favorite quote?
+What's the most dangerous animal?
+What is the safest country?
+What is the fastest animal?
+What is the longest word?
+What is the best way to save money?
+How do you say "hello" in French?
+How do you say "thank you" in Spanish?
+How do you say "goodbye" in Russian?
+How do you say "please" in German?
+How do you say "excuse me" in Japanese?
+What is the hardest language to learn?
+What is the easiest language to learn?
+What is the best programming language?
+What is an algorithm?
+What is a neural network?
+What is data science?
+What is the best way to relax?
+What is a healthy lifestyle?
+What is the tallest building?
+What is the largest desert?
+What is the oldest tree?
+What is the hottest planet?
+What is the coldest place on Earth?
+What is the richest country?
+What is the poorest country?
+What is the best-selling book?
+What is the highest-grossing movie?
+What is the most-watched TV show?
+What is the most-played video game?
+What is the most-used social media platform?
+What is the most-visited website?
+What is the most-populated country?
+What is the least-populated country?
+What is the most-spoken language?
+What is the most-common name?
+What is the most-visited city?
+What is the most-expensive city?
+What is the most-affordable city?
+What is the best way to travel?
+What is the most-popular tourist destination?
+What is the most-famous landmark?
+What is the most-popular food?
+What is the healthiest food?
+What is the unhealthiest food?
+What is the best way to cook?
+What is the best way to clean?
+What is the best way to organize?
+What is the best way to study?
+What is the best way to read?
+What is the best way to write?
+What is the best way to speak?
+What is the best way to listen?
+What is the best way to communicate?
+What is the best way to think?
+What is the best way to create?
+What is the best way to innovate?
+What is the best way to solve problems?
+What is the best way to make decisions?
+What is the best way to achieve goals?
+What is the best way to be happy?
+What is the best way to be healthy?
+What is the best way to be successful?
+What is the best way to be smart?
+What is the best way to be kind?
+What is the best way to be honest?
+What is the best way to be brave?
+What is the best way to be strong?
+What is the best way to be flexible?
+What is the best way to be resilient?
+What is the best way to be empathetic?
+What is the best way to be creative?
+What is the best way to be innovative?
+What is the best way to be a leader?
+What is the best way to be a follower?
+What is the best way to be a friend?
+What is the best way to be a partner?
+What is the best way to be a parent?
+What is the best way to be a child?
+What is the best way to be a student?
+What is the best way to be a teacher?
+What is the best way to be a mentor?
+What is the best way to be a role model?
+What is the best way to be a team player?
+What is the best way to be independent?
+What is the best way to be reliable?
+What is the best way to be punctual?
+What is the best way to be organized?
+What is the best way to be responsible?
+What is the best way to be disciplined?
+What is the best way to be motivated?
+What is the best way to be passionate?
+What is the best way to be curious?
+What is the best way to be adventurous?
+What is the best way to be patient?
+What is the best way to be tolerant?
+What is the best way to be open-minded?
+What is the best way to be forgiving?
+What is the best way to be grateful?
+What is the best way to be mindful?
+What is the best way to be aware?
+What is the best way to be present?
+What is the best way to be focused?
+What is the best way to be attentive?
+What is the best way to be observant?
+What is the best way to be perceptive?
+What is the best way to be analytical?
+What is the best way to be critical?
+What is the best way to be logical?
+What is the best way to be rational?
+What is the best way to be practical?
+What is the best way to be realistic?
+What is the best way to be optimistic?
+What is the best way to be pessimistic?
+What is the best way to be confident?
+What is the best way to be humble?
+What is the best way to be courageous?
+What is the best way to be honest?
+What is the best way to be trustworthy?
+What is the best way to be dependable?
+What is the best way to be loyal?
+What is the best way to be faithful?
+What is the best way to be respectful?
+What is the best way to be considerate?
+What is the best way to be courteous?
+What is the best way to be polite?
+What is the best way to be well-mannered?
+What is the best way to be kind-hearted?
+What is the best way to be warm-hearted?
+What is the best way to be gentle?
+What is the best way to be calm?
+What is the best way to be peaceful?
+What is the best way to be joyful?
+What is the best way to be cheerful?
+What is the best way to be positive?
+What is the best way to be loving?
+What is the best way to be caring?
+What is the best way to be compassionate?
+What is the best way to be generous?
+What is the best way to be selfless?
+What is the best way to be altruistic?
+What is the best way to be helpful?
+What is the best way to be supportive?
+What is the best way to be encouraging?
+What is the best way to be inspiring?
+What is the best way to be uplifting?
+What is the best way to be motivating?
+What is the best way to be empowering?
+What is the best way to be liberating?
+What is the best way to be transformative?
+What is the best way to be visionary?
+What is the best way to be futuristic?
+What is the best way to be revolutionary?
+What is the best way to be groundbreaking?
+What is the best way to be cutting-edge?
+What is the best way to be avant-garde?
+What is the best way to be unique?
+What is the best way to be original?
+What is the best way to be authentic?
+What is the best way to be genuine?
+What is the best way to be sincere?
+What is the best way to be true?
+What is the best way to be honest?
+What is the best way to be truthful?
+What is the best way to be candid?
+What is the best way to be frank?
+What is the best way to be open?
+What is the best way to be transparent?
+What is the best way to be vulnerable?
+What is the best way to be real?
+What is the best way to be down-to-earth?
+What is the best way to be grounded?
+What is the best way to be humble?
+What is the best way to be modest?
+What is the best way to be self-effacing?
+What is the best way to be unpretentious?
+What is the best way to be low-key?
+What is the best way to be understated?
+What is the best way to be discreet?
+What is the best way to be subtle?
+What is the best way to be quiet?
+What is the best way to be soft-spoken?
+What is the best way to be mild-mannered?
+What is the best way to be gentle?
